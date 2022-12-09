@@ -6,9 +6,8 @@ The `master` branch populates http://protocols.opentrons.com/, our Protocol Libr
 
 All the best,
 
-Will Canine
-Co-Founder, Opentrons
-will@opentrons.com
+Applications Engineering Team
+protocols@opentrons.com
 
 # Contributing
 
